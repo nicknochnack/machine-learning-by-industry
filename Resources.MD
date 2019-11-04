@@ -1,9 +1,11 @@
 <b>Healthcare</b>
-<a href="https://github.com/Issam28/Brain-tumor-segmentation">Tumour Segmentation</a>
-<a href="https://github.com/monkeydunkey/melanomaDetection">Melanoma Detection</a>
-<a href="https://github.com/shenyichen105/Deep-Learning-for-Computational-Phenotyping">Heart Failure Prediction Using EHR data</a>
-<a href="https://github.com/Cesaros/DeepLearning_ClinicalNotes">Clinical Notes Processing</a>
-<a href="https://github.com/deepchem/deepchem">Drug Discovery</a>
+<ul>
+<li><a href="https://github.com/Issam28/Brain-tumor-segmentation">Tumour Segmentation</a></li>
+<li><a href="https://github.com/monkeydunkey/melanomaDetection">Melanoma Detection</a></li>
+<li><a href="https://github.com/shenyichen105/Deep-Learning-for-Computational-Phenotyping">Heart Failure Prediction Using EHR data</a></li>
+<li><a href="https://github.com/Cesaros/DeepLearning_ClinicalNotes">Clinical Notes Processing</a></li>
+<li><a href="https://github.com/deepchem/deepchem">Drug Discovery</a></li>
+</ul>
 
 <b>Banking/Insurance</b>
 <a href="https://github.com/harishpuvvada/LoanDefault-Prediction">Default Prediction</a>
