@@ -1,3 +1,10 @@
+<h1>Machine Learning and Deep Learning By Industry</h1>
+Looking for what <i>you</i> can do with ML?
+
+Look no further, heres a big list of machine learning examples you can use to get started with ML in your industry. All credit goes to the passionate coders out there who are sharing their code out there on github!
+
+Happy coding!
+
 <b>Healthcare</b>
 <ul>
 <li><a href="https://github.com/Issam28/Brain-tumor-segmentation">Tumour Segmentation</a></li>
@@ -14,7 +21,7 @@
 <li><a href="https://github.com/CamDavidsonPilon/lifetimes">Lifetime Value Forecasting</a></li>
 <li><a href="https://github.com/Souldiv/car-damage-assessment-pytorch">Vehicle Damage Detection</a></li>
 <li><a href="https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-">Portfolio Management with Reinforcement Learning</a></li>
-<ul>
+</ul>
 
 <b>Retail</b>
 <ul>
@@ -34,18 +41,12 @@
 <li><a href="https://github.com/kaihuchen/DRL-AutonomousVehicles">Autonomous Vehicle Navigation</a></li>
 <ul>
 
-<b>Construction</b>
+<b>Construction and Real Estate</b>
 <ul>
-<a href="https://github.com/WangQiqing/UPIoT-construction-risk"> Risk Assessment</a>
-<li><a href="https://github.com/lianghu83/Waze-crash-prediction-deep-learning">Safety/Crash Prediction</a>
-<li><a href="https://github.com/USCCACS/ML-defect-analysis">Defect Analysis</a>
-<li><a href="https://github.com/carolineh101/deep-learning-architecture">Building Architecture Generation</a>
-<li><a href="https://github.com/timbrgr/complex-scheduling-optimization-case-studies">Optimized Staff Scheduling</a>
+<li><a href="https://github.com/WangQiqing/UPIoT-construction-risk"> Risk Assessment</a></li>
+<li><a href="https://github.com/lianghu83/Waze-crash-prediction-deep-learning">Safety/Crash Prediction</a></li>
+<li><a href="https://github.com/USCCACS/ML-defect-analysis">Defect Analysis</a></li>
+<li><a href="https://github.com/carolineh101/deep-learning-architecture">Building Architecture Generation</a></li>
+<li><a href="https://github.com/timbrgr/complex-scheduling-optimization-case-studies">Optimized Staff Scheduling</a></li>
+<a href="https://github.com/Shreyas3108/house-price-prediction">Property Price Prediction</a>
 </ul>
-
-<b>Real Estate</b>
-Property Price Prediction
-Property Matching
-Energy Usage Optimization
-Land Development Optimization
-Tennant Evaluation
