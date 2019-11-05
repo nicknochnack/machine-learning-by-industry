@@ -39,7 +39,7 @@ Happy coding!
 <li><a href="https://github.com/Bramcals/Order-Batching-Problem-a-deep-Reinforcement-Learning-approach">Order Fulfilment Optimization</a></li>
 <li><a href="https://github.com/rodrigosantis1/backorder_prediction">Back Order Prediction</a></li>
 <li><a href="https://github.com/kaihuchen/DRL-AutonomousVehicles">Autonomous Vehicle Navigation</a></li>
-<ul>
+</ul>
 
 <b>Construction and Real Estate</b>
 <ul>
