@@ -23,7 +23,7 @@
 <li><a href="https://github.com/adeshpande3/LSTM-Sentiment-Analysis">Sentiment Analysis</a></li>
 <li><a href="https://github.com/jalajthanaki/Customer_segmentation">Customer Segmentation</a></li>
 <li><a href="https://github.com/rk2900/bidding-machine">Display Advertising Optimization</a></li>
-<ul>
+</ul>
 
 <b>Logistics and Transport</b>
 <ul>
